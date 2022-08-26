@@ -1,0 +1,9 @@
+@media(max-width: 992px)
+{
+    img{ width: 100%;}
+    .row { flex-direction: column; padding: 20px;}
+    nav ul{ display: none;}
+    nav ul li{ display: block;}
+    .banner-left{order: 2; padding: 20px 0;}
+    .banner-right{order: 1;}
+}
